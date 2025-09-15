@@ -1,2 +1,3 @@
-# M.Sc. Mathematics Thesis Repository
-This is the repository containing the scripts used to obtain the results of my thesis titled "Coclustering in binary hypergraphs". 
+# Coclustering in Binary Hypergraphs
+
+This repository contains the scripts used to produce the results of my M.Sc. Mathematics thesis, titled *"Coclustering in Binary Hypergraphs"*.
